@@ -1,0 +1,29 @@
+1) PUMA http://www.puma.com/running
+
+ 
+
+The Puma website uses JavaScript on their front page.  It displays a slideshow of pictures and buttons.  When you hover over an image, it will change and when you click on it, it will direct you to somewhere else. Down toward the bottom, there are several buttons that have interactive properties.  I could learn more about this to forward my knowledge of web development.
+
+ 
+
+2) GrooveShark http://grooveshark.com
+
+Similar to Pandora and spotify, Grooveshark is a music website that will give you free on demand choices of songs you want to hear.  The website uses the new Jquery UI and will let you drag and drop songs.  It will use visual effects when music is played.  I think this will help me understand what JQuery can do.
+
+ 
+
+3) Gears http://mbostock.github.com/d3/talk/20111116/gears.html
+
+This is a web application with radio buttons, each button will do something different.  They show up as gears, but it is supposed to be the revolutions of the planets.
+
+4) Wordcloud   http://www.jasondavies.com/wordcloud/#http%3A%2F%2Fen.wikipedia.org%2Fwiki%2F%7Bword%7D=paused
+
+ 
+
+This application will show you Tags from wiki, twitter and other places.  If you click on one of the words it will make everything else disappear.
+
+ 
+
+5) Ny times budget plan http://www.nytimes.com/interactive/2012/02/13/us/politics/2013-budget-proposal-graphic.html
+
+This shows an interesting graph made with javascript.  When you hover over one of the graph bubbles, it will show you how much money.
